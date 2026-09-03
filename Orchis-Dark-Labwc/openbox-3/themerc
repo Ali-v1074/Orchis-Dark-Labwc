@@ -1,0 +1,105 @@
+# border
+border.width: 1
+menu.border.width: 1
+
+# general
+window.titlebar.padding.width: 6
+window.titlebar.padding.height: 5
+window.label.text.justify: center
+
+# buttons
+window.button.spacing: 12
+window.button.hover.bg.corner-radius: 12
+window.button.width: 26
+window.button.height: 26
+
+# menu
+menu.title.text.justify: left
+menu.width.min: 190
+menu.width.max: 400
+menu.overlap.x: 1
+menu.overlap.y: 7
+menu.corner-radius: 9
+menu.padding.width: 6
+menu.padding.height: 6
+
+# menu items
+menu.items.corner-radius: 6
+menu.items.border.width: 0
+menu.items.padding.y: 9
+menu.items.padding.x: 12
+
+# menu separator
+menu.separator.width: 1
+menu.separator.padding.width: 6
+menu.separator.padding.height: 6
+menu.title.text.justify: center
+
+# osd
+osd.window-switcher.width: 600
+osd.window-switcher.padding: 6
+osd.window-switcher.item.active.border.width: 2
+osd.workspace-switcher.boxes.width: 40
+osd.workspace-switcher.boxes.height: 30
+osd.window-switcher.item.padding.x: 12
+osd.window-switcher.item.padding.y: 12
+osd.window-switcher.preview.border.color: #3281EA,#3281EA,#3281EA
+
+# snapping
+snapping.overlay.region.bg.enabled: yes
+snapping.overlay.edge.bg.enabled: yes
+snapping.overlay.region.border.enabled: yes
+snapping.overlay.edge.border.enabled: yes
+snapping.overlay.region.bg.color: #3281EA33
+snapping.overlay.edge.bg.color: #3281EA33
+snapping.overlay.region.border.width: 1
+snapping.overlay.edge.border.width: 1
+snapping.overlay.region.border.color: #3281EA
+snapping.overlay.edge.border.color: #3281EA
+
+# shadows
+window.active.shadow.size: 60
+window.inactive.shadow.size: 40
+window.active.shadow.color: #00000033
+window.inactive.shadow.color: #0000001F
+
+## Headers
+# Active Windows
+window.active.title.bg.color: #2C2C2C
+window.active.border.color: #3d3d40
+window.active.label.text.color: #ffffff
+window.active.indicator.toggled-keybind.color: #3281EA
+window.active.button.unpressed.image.color: #ffffff
+
+# Inactive Windows
+window.inactive.title.bg.color: #3C3C3C
+window.inactive.border.color: #313135
+window.inactive.label.text.color: #FFFFFFB3
+window.inactive.button.unpressed.image.color: #FFFFFFB3
+
+## Menu
+menu.separator.color: #1f1f1f
+menu.title.bg.color: #3C3C3C
+menu.title.text.color: #ffffff
+menu.border.color: #090909
+menu.bg.color: #3C3C3C
+menu.items.bg.color: #3C3C3C
+menu.items.text.color: #ffffff
+menu.items.border.color: #3C3C3C
+menu.items.active.border.color: #3C3C3C
+menu.items.active.text.color: #ffffff
+menu.items.active.bg.color: #464646
+
+# on screen display (window-cycle dialog)
+osd.bg.color: #3C3C3C
+osd.border.color: #090909
+osd.label.text.color: #ffffff
+osd.window-switcher.style-thumbnail.width.max: 80%
+osd.window-switcher.style-thumbnail.padding: 15
+osd.window-switcher.style-thumbnail.item.width: 300
+osd.window-switcher.style-thumbnail.item.height: 250
+osd.window-switcher.style-thumbnail.item.padding: 15
+osd.window-switcher.style-thumbnail.item.active.border.width: 3
+osd.window-switcher.style-thumbnail.item.active.border.color: #3281EA
+osd.window-switcher.style-thumbnail.item.active.bg.color: #2C2C2C
+osd.window-switcher.style-thumbnail.item.icon.size: 60
