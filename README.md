@@ -4,37 +4,27 @@ A **labwc theme inspired by Orchis Dark**.
 
 ## Installation
 
-Move the `Orchis-Dark-Labwc` folder to:
+Move `Orchis-Dark-Labwc` to `~/.themes`.
 
-```text
-~/.themes
-```
+Enable it from `rc.xml` or **Labwc Tweaks**.
 
-Enable the theme from `rc.xml` or using **Labwc Tweaks**.
-
-Make sure there is no `themerc-override` file in:
-
-```text
-~/.config/labwc
-```
+Remove `themerc-override` from `~/.config/labwc`.
 
 ## Recommended Settings
 
 ### Hide the Window Icon
 
-To hide the **Window Icon** shown in the images below, remove `icon` from this line in `rc.xml`:
+To hide the **Window Icon**, remove `icon` from this line in `rc.xml`:
 
 ```xml
 <layout>icon:iconify,max,close</layout>
 ```
 
-It should become:
+Change it to:
 
 ```xml
 <layout>:iconify,max,close</layout>
 ```
-
-> **Note:** The Window Icon menu will still be accessible; only the icon itself will be hidden.
 
 <details>
 <summary>Preview</summary>
