@@ -89,13 +89,13 @@ Enable **Thumbnail** instead of **Classic**.
 <details>
 <summary>Alt-Tab Switcher</summary>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/092e1afa-3d90-458f-8f37-e63ade18b228" />
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e55a80b-b649-400f-b0c9-290b87240e5b" />
 
 </details>
 
 <details>
 <summary>Window Snap Overlay</summary>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80427d92-ee42-4f09-b351-aa1419f2c80d" />
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/41f99be2-c5ae-4dc6-8cc3-5f2df54036f9" />
 
 </details>
