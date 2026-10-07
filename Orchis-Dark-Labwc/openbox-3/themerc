@@ -91,7 +91,7 @@ menu.items.active.text.color: #ffffff
 menu.items.active.bg.color: #464646
 
 # on screen display (window-cycle dialog)
-osd.bg.color: #2C2C2C
+osd.bg.color: #3C3C3C
 osd.border.color: #090909
 osd.label.text.color: #ffffff
 osd.window-switcher.style-thumbnail.width.max: 80%
