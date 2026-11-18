@@ -19,8 +19,6 @@ menu.width.min: 190
 menu.width.max: 400
 menu.overlap.x: 1
 menu.overlap.y: 7
-menu.padding.width: 6
-menu.padding.height: 6
 
 # menu items
 menu.items.corner-radius: 6
