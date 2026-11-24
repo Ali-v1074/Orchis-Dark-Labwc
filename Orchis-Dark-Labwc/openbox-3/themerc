@@ -1,8 +1,5 @@
 # ---------- General ---------- #
 border.width: 1
-osd.bg.color: #3C3C3C
-osd.border.color: #090909
-osd.label.text.color: #ffffff
 
 # ---------- Window ---------- #
 window.titlebar.padding.width: 6
@@ -31,6 +28,11 @@ window.inactive.title.bg.color: #3C3C3C
 window.inactive.border.color: #313135
 window.inactive.label.text.color: #FFFFFFB3
 window.inactive.button.unpressed.image.color: #FFFFFFB3
+
+# ---------- OSD ---------- #
+osd.bg.color: #3C3C3C
+osd.border.color: #090909
+osd.label.text.color: #ffffff
 
 # ---------- Window Switcher ---------- #
 osd.window-switcher.style-classic.width: 600
