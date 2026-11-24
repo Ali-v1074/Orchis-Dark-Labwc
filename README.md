@@ -20,7 +20,7 @@ Remove `themerc-override` from `~/.config/labwc`.
 </details>
 
 <details>
-<summary>Window Menu</summary>
+<summary>Menu</summary>
 
 <img width="926" height="772" alt="image" src="https://github.com/user-attachments/assets/f7c5a0df-4392-4cd1-920e-335b0de1864c" />
 
@@ -34,7 +34,7 @@ Remove `themerc-override` from `~/.config/labwc`.
 </details>
 
 <details>
-<summary>Window Snap Overlay</summary>
+<summary>Snapping Overlay</summary>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9643bff4-5a9c-422f-ab9f-5cb830822039" />
 
