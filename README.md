@@ -6,9 +6,9 @@ A **labwc theme inspired by Orchis Dark**.
 
 Move `Orchis-Dark-Labwc` to `~/.themes`.
 
-Enable it from `rc.xml` or [**Labwc Tweaks**](https://github.com/labwc/labwc-tweaks).
-
 Remove `themerc-override` from `~/.config/labwc`.
+
+Enable it from `rc.xml` or [**Labwc Tweaks**](https://github.com/labwc/labwc-tweaks).
 
 ## Screenshots
 
